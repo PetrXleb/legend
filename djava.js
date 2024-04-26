@@ -1,0 +1,1 @@
+<button onclick="alert('Вывод текста в javascript')">Выведи текст в javascript</button>
